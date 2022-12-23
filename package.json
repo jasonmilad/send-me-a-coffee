@@ -1,0 +1,22 @@
+{
+  "name": "send-me-a-coffee",
+  "version": "1.0.0",
+  "description": "Send Jason Milad a coffee!",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonmilad/send-me-a-coffee.git"
+  },
+  "author": "Jason Milad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonmilad/send-me-a-coffee/issues"
+  },
+  "homepage": "https://github.com/jasonmilad/send-me-a-coffee#readme",
+  "dependencies": {
+    "ethers": "^5.7.2"
+  }
+}
